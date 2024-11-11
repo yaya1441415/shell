@@ -1,0 +1,3 @@
+C:/Users/yahya/OneDrive/Bureau/projects_summer/c++/shell2/cmake-build-debug/CMakeFiles/shell2.dir
+C:/Users/yahya/OneDrive/Bureau/projects_summer/c++/shell2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yahya/OneDrive/Bureau/projects_summer/c++/shell2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
